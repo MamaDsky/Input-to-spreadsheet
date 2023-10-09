@@ -1,7 +1,7 @@
 
 # Data Search
 
-Simple project made with HTML, CSS, JS, and PHP programming languages. This project will work by displaying all student data and will filter student data which will be written in the input field and the data will appear based on the keywords written in the input field
+Simple Project created with HTML, CSS, JS programming languages. This project will run like an input form in general, the only difference here is that the output data will be entered into a Google Spreadsheet. In this project I also use sweetalert to help display "success" output
 
 
 ## Authors
